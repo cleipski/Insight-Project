@@ -1,7 +1,7 @@
 # TargAd
 ## Maximize the impact of your investment
 
-TargAd is a tool that helps advertisers optimize the return of their investment by finding the best locations given the subject matter of the (targeted) advertisement. For this project I leveraged tagged public images from Flickr and using kernel density estimates and clustering techniques to identify local hot spots in customer interest.
+TargAd is a tool that helps advertisers optimize the return of their investment. This is accomplished by finding the best locations given the subject matter of the (targeted) advertisement. For this project I leveraged tagged public images from Flickr and used kernel density estimates and clustering techniques to identify local hot spots in customer interests.
 
 This project was completed in about 2.5 weeks as part of the Data Science Fellowship at 
 [Insight Data Science](http://insightdatascience.com).
